@@ -1,0 +1,25 @@
+.first
+        {
+        
+        color:black;
+        font-family: fantasy;
+        text-align: center;
+        font-size: 2rem;
+    }
+    footer{font-size: 2rem;
+           text-align: left;
+           clear: both;
+        
+    font-family: fantasy;}
+
+img{
+float: right;
+border-color: 5px solid black
+}
+
+
+p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+    .main{background-color:burlywood;
+    padding: 50%;
+border-color:10px solid brown;
+border-radius: 15px;}
